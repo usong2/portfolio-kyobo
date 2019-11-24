@@ -2480,6 +2480,14 @@ body.offcanvas .colorlib-nav-toggle {
     color: #9cafe9;
 }
 
+.home_box .scroll_down span {
+    display: block;
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+    color: #5e6b9f;
+}
+
 @keyframes animatedbang {
     0% {
         transform: translateY(10px);
